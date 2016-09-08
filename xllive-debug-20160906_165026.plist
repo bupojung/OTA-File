@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://rdm.xunlei.cn/job/jiuwo-ios/93/artifact/archive/xllive-OTA.ipa</string>
+					<string>http://rdm.xunlei.cn/job/jiuwo-ios/lastSuccessfulBuild/artifact/archive/xllive-OTA.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
